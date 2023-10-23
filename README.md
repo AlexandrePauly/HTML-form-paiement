@@ -1,4 +1,4 @@
-# Formulaire de Connexion
+# Formulaire de Paiement
 
 Ce projet est un exemple de formulaire de paiement interactif réalisé en utilisant les langages HTML, CSS et JavaScript.
 
